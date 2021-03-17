@@ -7,6 +7,15 @@
     <p>Java Programming Language</p>
 </h3>
 
+## Contents
+- [About Java](#about-java)
+- [Installing Java](#installing-java)
+- [Running Java Code](#running-java-code)
+- [About Java](#about-java)
+- [Java IDEs](#java-ides)
+- [Java in VSCode](#java-in-vscode)
+- [Variables](#variables)
+
 ## About Java
 * Author    - Java was developed by James Gosling in 1995
 * Originally it was called 'Oak' after oak three
