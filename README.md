@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/34022590/111512760-c3654d80-8758-11eb-99a6-982af6fa9e9c.png" width="150px"></p>>
+<p align="center"><img src="https://user-images.githubusercontent.com/34022590/111512760-c3654d80-8758-11eb-99a6-982af6fa9e9c.png" width="150px"></p>
 
 <h1 align="center">
     <strong>Java</strong>
